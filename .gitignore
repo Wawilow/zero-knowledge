@@ -12,3 +12,15 @@ docs/
 
 # Dotenv file
 .env
+
+# Ape stuff
+.build/
+.cache/
+.idea/
+
+# Python
+.env
+.venv
+.pytest_cache
+.python-version
+__pycache__
