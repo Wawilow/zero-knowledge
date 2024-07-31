@@ -42,3 +42,12 @@ Alibaba cave theory (not plato's!!!!!)
 
 Okay, cool, but, why do the make it more complicated. Why they don't came in this cave together, Peggy goes for example on the left and comes out on the right side
 
+## Time to actually some code
+Simplest command
+```bash
+forge create --rpc-url <your_rpc_url> --private-key <your_private_key> src/MyContract.sol:MyContract
+```
+Ful command
+```bash
+forge create --rpc-url <your_rpc_url> --private-key <your_private_key> src/MyContract.sol:MyContract
+```
